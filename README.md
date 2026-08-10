@@ -48,7 +48,7 @@ const vivek = {
 
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vivekmaddy16&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" alt="Trophies" width="95%" />
+    <img src="https://github-trophies.vercel.app/?username=vivekmaddy16&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" alt="Trophies" width="95%" />
   </a>
 
 </div>
@@ -117,12 +117,12 @@ const vivek = {
     <tr>
       <td width="50%">
         <a href="https://github.com/vivekmaddy16">
-          <img src="https://github-readme-stats.vercel.app/api?username=vivekmaddy16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivekmaddy16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/vivekmaddy16">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmaddy16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivekmaddy16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -187,7 +187,7 @@ const vivek = {
   <br/>
   
   <a href="https://github.com/vivekmaddy16">
-    <img src="https://quotes-github-readme-api.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=churchill&font=default" alt="Dev Quote" />
   </a>
 
   <br/><br/>
