@@ -151,9 +151,9 @@ const vivek = {
 
 | Project | Description | Tech Stack | Status | Link |
 | :--- | :--- | :--- | :---: | :---: |
-| 🌐 **Next-Gen Portfolio** | Modern interactive web application with dark mode & micro-animations. | React, Tailwind, Framer Motion | 🟢 Live | [Repo](https://github.com/vivekmaddy16) |
-| 🤖 **AI Assistant Hub** | Conversational AI platform powered by LLMs & custom RAG pipeline. | Python, FastAPI, OpenAI, LangChain | 🟡 In Dev | [Repo](https://github.com/vivekmaddy16) |
-| ⚡ **Full-Stack SaaS Platform** | Scalable multi-tenant SaaS application with real-time analytics. | Next.js, Node.js, PostgreSQL, Stripe | 🟢 Live | [Repo](https://github.com/vivekmaddy16) |
+| 🤖 **Mockly** | AI-Powered Interview Preparation System with real-time feedback & mock interviews. | Next.js, AI/ML, Node.js | 🟢 Live | [Repo](https://github.com/vivekmaddy16/Mockly) |
+| 📝 **HireBoost** | Full-stack web app that helps users improve their resumes based on target job descriptions. | React, Node.js, Express, MongoDB | 🟢 Live | [Repo](https://github.com/vivekmaddy16/Hireboost) |
+| 💬 **Lobiie** | Social media platform with custom servers, audio/video/text channels & community features. | Next.js, Socket.io, Prisma, Tailwind | 🟢 Live | [Repo](https://github.com/vivekmaddy16/Lobiie) |
 
 <br/>
 
