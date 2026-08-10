@@ -186,7 +186,7 @@ const vivek = {
   <a href="https://github.com/vivekmaddy16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/vivekmaddheshiya" target="_blank">
+  <a href="https://linkedin.com/in/vivekmaddy16" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
