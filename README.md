@@ -40,11 +40,11 @@ const vivek = {
     codebase: ["JavaScript", "TypeScript", "Python", "C++", "C"],
     stack: ["Next.js", "React.js", "Node.js", "Express.js", "Socket.IO", "WebRTC", "Prisma", "Tailwind CSS"],
     databases: ["MongoDB", "MySQL"],
-    cloudAndTools: ["AWS", "Git", "GitHub", "Vercel", "Postman"],
+    cloudAndTools: ["Git", "GitHub", "Vercel", "Postman"],
     certifications: [
         "Full Stack Web Development - MERN (PrepInsta)",
         "MongoDB Developer's Toolkit (GeeksforGeeks)",
-        "AWS Cloud Infrastructure (PrepInsta)"
+        
     ],
     interests: ["Cricket 🏏", "Badminton 🏸", "Open-Source 🚀", "DevOps & Backend Architectures ⚙️"],
     philosophy: "Code is like humor. When you have to explain it, it’s bad. 🚀"
